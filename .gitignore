@@ -4,6 +4,10 @@
 # Generated files
 cv.pdf
 
+# Personal data
+data.py
+/img
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
