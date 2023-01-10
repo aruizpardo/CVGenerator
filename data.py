@@ -37,9 +37,10 @@ STUDIES = [
 
 COURSES = [
     {
-        "duration": "",
-        "date": "",
+        "start_year": "2001",
+        "end_year": "2001",
         "name": "",
-        "description": ""
+        "description": "",
+        "company": ""
     }
 ]
